@@ -95,6 +95,7 @@ Next change the theme customization to your liking in the `public/config/theme.c
   --animation-shadow:1;
 
   /*Main container*/
+  --main-border:rgba(0, 0, 0, 0);
   --main-rarius:25px;
   --main-bg-primary:#fd3838;
   --main-bg-secondary:#ffe53b;
