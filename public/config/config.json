@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xe292A177A270D4620Cbc448C24cB9670187f9Ddf",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe292A177A270D4620Cbc448C24cB9670187f9Ddf",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "OWNER":"NOBODY",
+  "YEAR":"2022",
+  "NFT_NAME": "EMOJEES",
+  "SYMBOL": "EMJ",
+  "MAX_SUPPLY": 1024,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/emojees-v2"
+}

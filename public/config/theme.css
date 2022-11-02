@@ -1,0 +1,38 @@
+
+:root {
+  /* Body */
+  --primary: #e60000;
+  --secondary:#4a006d;
+  --bg-angle:180deg;
+  --primary-text: #17c707;
+  --owner:#ffda07;
+  --logo:150px;
+  
+  /* Image preview */
+  --img-size:280px;
+  --img-radius:0%;
+  --img-animation-primary:#f10065;
+  --img-animation-secondary:#0077ff;
+  --animation:spin;
+  --animation-showhide:0;
+  --animation-shadow:1;
+
+  /*Main container*/
+  --main-border:rgba(0, 0, 0, 0);
+  --main-rarius:0px;
+  --main-bg-primary:#ffffff18;
+  --main-bg-secondary:#ffffff18;
+  --main-angle:147deg;
+  --main-text: #ff0000;
+  --alert-text:#00ff2a;
+  --wallet-text: #dadada;
+
+  /*Buttons*/
+  --btn-radius:0px;
+  --btn-color:#fa0000;
+  --btn-text:#ffffff;
+  --btn-text-hover:#00ff2a;
+  
+  /*Buttons*/
+  --btn-sec-text:#00ff2a;
+}
