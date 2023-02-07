@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xe292A177A270D4620Cbc448C24cB9670187f9Ddf",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe292A177A270D4620Cbc448C24cB9670187f9Ddf",
+  "CONTRACT_ADDRESS": "0x5b12b9449ce5d33950274d973dab441e12a01e91",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5b12b9449ce5d33950274d973dab441e12a01e91",
   "NETWORK": {
     "NAME": "Mumbai",
     "SYMBOL": "MATIC",
     "ID": 80001
   },
   "OWNER":"NOBODY",
-  "YEAR":"2022",
-  "NFT_NAME": "EMOJEES",
-  "SYMBOL": "EMJ",
-  "MAX_SUPPLY": 1024,
+  "YEAR":"2023",
+  "NFT_NAME": "Realprop Fund I",
+  "SYMBOL": "RPFI",
+  "MAX_SUPPLY": 50,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
